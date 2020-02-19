@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 How about the beer
+=======
+Learning Python is fun!
+>>>>>>> 53b079b9a97b40b07e68ed70f4f83c55196a8b9e
