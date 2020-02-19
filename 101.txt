@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 How about the beer
 =======
 Learning Python is fun!
